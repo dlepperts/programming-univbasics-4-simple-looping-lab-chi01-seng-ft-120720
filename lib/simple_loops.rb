@@ -33,7 +33,6 @@ def return_string_array(array)
   array
 end
 
-x = [1,2,3]
-puts x
+
 
 return_string_array(['Danielle', 5])
